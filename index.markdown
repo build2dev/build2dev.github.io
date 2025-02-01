@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Under construction
+We are a software development company.
