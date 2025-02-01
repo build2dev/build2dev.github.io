@@ -5,4 +5,6 @@
 layout: home
 ---
 
-We are a software development company.
+We are a software development company specializing in web and mobile applications. Our experienced team delivers high-quality software solutions tailored to your business needs.
+
+Let's have a <a href="mailto:{{ site.business_email }}">chat</a>.

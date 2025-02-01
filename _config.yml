@@ -29,6 +29,7 @@ business_name: BUILD2DEV LTDA
 business_address: Av. do Contorno, 2905, Loja 01, Belo Horizonte, MG 31030050, Brazil
 business_phone: +5531983584539
 business_cnpj: 36.540.398/0001-04
+business_email: hello@build2.dev
 
 # Build settings
 theme: minima
